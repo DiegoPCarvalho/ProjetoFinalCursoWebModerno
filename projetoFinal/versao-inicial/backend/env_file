@@ -1,0 +1,10 @@
+module.exports = {
+    authSecret: 'weiuryiwueyr$&&sdkjh11231234',
+    db: {
+        host: '127.0.0.1',
+        port: 5432,
+        database: '',
+        user: '',
+        password: ''
+    }
+}
